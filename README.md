@@ -10,6 +10,6 @@ Belajar Dasar-Dasar DevOps. (Progress 100%)
   
 **1 Maret 2024**<br> 
 Belajar Pengenalan ke Logika Pemrograman. ( Progress 100%)
-* Belajar Mengenai Gerbalng Logika seperti AND, OR , NOT, NAND, NOR, XOR, dan XNOR.
+* Belajar Mengenai Gerbang Logika seperti AND, OR , NOT, NAND, NOR, XOR, dan XNOR.
 * Belajar Mengenai Pengenalan Dasar Computational Thinking seperti Decomposition, Pattern Recognition, Abstraction, Algorithm, dan Evaluation.  
 
