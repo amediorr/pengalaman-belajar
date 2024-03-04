@@ -1,19 +1,15 @@
 # Pengalaman Belajar di Dicoding
 
-**2 Maret 2024**<br>
-Belajar Dasar Git dengan GitHub. (Progress 41%)
-*  Belajar tentang Git dan GitHub.
-*  Belajar tentang Dasar Git.
-*  Belajar Mengenai Studi Kasus Pengalaman Belajar.
+**1 Maret 2024**<br>
+Belajar Dasar-Dasar DevOps. (Progress 100%)
+*  Belajar Mengenai Pengenalan DevOps
+*  Belajar Mengenai Prinsip-Prinsip DevOps.
+*  Belajar Mengenai CALMS Framework.
+*  Belajar Mengenai Praktik DevOps.
+*  Belajar Mengenai Kisah Implementasi DevOps.
   
-**4 Maret 2024**<br> 
-Belajar Dasar Pemrograman Web ( Progress 24%)
-* Belajar Pengantar HTML seperti Anatomi Elemen, Attribute di Elemen, dan Anatomi Dokumen.
-* Belajar Pendalaman HTML seperti Paragraf, Heading , List , dan Gambar.
+**1 Maret 2024**<br> 
+Belajar Pengenalan ke Logika Pemrograman. ( Progress 100%)
+* Belajar Mengenai Gerbalng Logika seperti AND, OR , NOT, NAND, NOR, XOR, dan XNOR
+* Belajar Mengenai Pengenalan Dasar Computational Thinking seperti Decomposition, Pattern Recognition, Abstraction, Algorithm, dan Evaluation  
 
-**20 Juni 2021**<br>
-Belajar kelas Memulai Pemrograman dengan Java. (Progress 100%)
-* Belajar konsep OOP ( Object-Oriented Programming untuk mempermudah pengembangan sebuah program.
-* Belajar class-class yang sering digunakan dalam bahasa java seperti generic, exception, input output, date time, dan casting.
-* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
-* Mengerjakan ujian akhir untuk menilai kemahiran diri.
